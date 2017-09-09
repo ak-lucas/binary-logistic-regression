@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-from regressao_logistica import LogisticRegression
+from regressao_logistica import LogisticRegression	#colocar regressao_logistica.py na mesma pasta
 import csv
 import numpy as np
 from sklearn.metrics import accuracy_score
